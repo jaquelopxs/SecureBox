@@ -6,7 +6,7 @@ SecureBox é uma aplicação simples de criptografia simétrica desenvolvida em 
 
 Proteger qualquer arquivo de texto local, tornando seu conteúdo completamente ilegível sem a senha correta.
 
-## ⚙️ Tecnologias e Conceitos Utilizados
+## Tecnologias e Conceitos Utilizados
 
 - **Criptografia Simétrica (Fernet/AES)**
 - **Salt Aleatório** para fortalecer a derivação da chave
