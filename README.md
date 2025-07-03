@@ -1,4 +1,4 @@
-# SecureBox - Semétrico
+# SecureBox - Simétrico
 
 SecureBox é uma aplicação simples de criptografia simétrica desenvolvida em Python, que permite ao usuário proteger arquivos locais utilizando uma senha. É ideal para armazenar com segurança dados sensíveis, como senhas e informações pessoais, mantendo tudo offline e protegido.
 
