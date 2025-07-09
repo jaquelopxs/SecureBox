@@ -1,3 +1,0 @@
-senha1: minhaSenha123
-senha2: senhaSegura456
-senha3: SuperSenha789

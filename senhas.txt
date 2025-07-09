@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 senha1: minhaSenha123
 senha2: senhaSegura456
 senha3: SuperSenha789
+=======
+senha1: minhaSenha123
+senha2: senhaSegura456
+senha3: SuperSenha789
+>>>>>>> 97c12fd88410afebe8a0955326cbcd62ee13e7dc
